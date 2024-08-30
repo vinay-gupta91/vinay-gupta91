@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋, I'm Vinay Gupta
 
-<!--
-**vinay-gupta91/vinay-gupta91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation Expert( Senior Quality Analyst )
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Advance Design Patterns, Playwright, Burpsuit.
+- 👯 I’m looking to collaborate on Postman API Testing, Selenium Automation Frameworks Using TestNG, POM, Cumber BDD.
 -->
+
+Languages and Tools:
+
+
+![GIT](https://github.com/user-attachments/assets/ab236c45-1089-4c38-8502-46409684f6c1)    , ![jenkins](https://github.com/user-attachments/assets/8348a612-f8f4-4311-aadd-ae61fb023ce0) , !Java
+![Selenium](https://www.selenium.dev/)
+!Postman
+!GitHub
+!Git
+!Jenkins
+![TestNG](https://testng.org/)
+![Cucumber](https://cucumber.io/)
+
