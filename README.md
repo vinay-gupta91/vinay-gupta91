@@ -10,8 +10,7 @@ Automation Expert( Senior Quality Analyst )
 Languages and Tools:
 
 
-![GIT](https://github.com/user-attachments/assets/ab236c45-1089-4c38-8502-46409684f6c1)    , ![jenkins](https://github.com/user-attachments/assets/8348a612-f8f4-4311-aadd-ae61fb023ce0) , - ![Java](https://img.icons8.com/ios-filled/100/000000/java-coffee-cup-logo.png) Java
-### Technical Skills ,  ![Java](https://img.icons8.com/ios-filled/100/000000/java-coffee-cup-logo.png) Java ,  ![Selenium](https://img.icons8.com/ios-filled/100/000000/selenium.png) Selenium ,  ![Postman](https://img.icons8.com/color/100/000000/postman-api.png) Postman,  ![GitHub](https://img.icons8.com/material-rounded/100/000000/github.png) GitHub ![Git](https://img.icons8.com/material-rounded/100/000000/git.png) Git,  ![Jenkins](https://img.icons8.com/ios-filled/100/000000/jenkins.png) Jenkins, ![TestNG](https://img.icons8.com/color/100/000000/testng.png) TestNG, ![Cucumber](https://img.icons8.com/color/100/000000/cucumber.png) Cucumber
+![GIT](https://github.com/user-attachments/assets/ab236c45-1089-4c38-8502-46409684f6c1)    , ![jenkins](https://github.com/user-attachments/assets/8348a612-f8f4-4311-aadd-ae61fb023ce0) , - ![Java](https://img.icons8.com/ios-filled/100/000000/java-coffee-cup-logo.png) Java ![Java](https://img.icons8.com/ios-filled/100/000000/java-coffee-cup-logo.png) Java ,  ![Selenium](https://img.icons8.com/ios-filled/100/000000/selenium.png) Selenium ,  ![Postman](https://img.icons8.com/color/100/000000/postman-api.png) Postman,  ![GitHub](https://img.icons8.com/material-rounded/100/000000/github.png) GitHub ![Git](https://img.icons8.com/material-rounded/100/000000/git.png) Git,  ![Jenkins](https://img.icons8.com/ios-filled/100/000000/jenkins.png) Jenkins, ![TestNG](https://img.icons8.com/color/100/000000/testng.png) TestNG, ![Cucumber](https://img.icons8.com/color/100/000000/cucumber.png) Cucumber
 
 
 
