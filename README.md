@@ -10,7 +10,9 @@ Automation Expert( Senior Quality Analyst )
 Languages and Tools:
 
 
-![GIT](https://github.com/user-attachments/assets/ab236c45-1089-4c38-8502-46409684f6c1)    , ![jenkins](https://github.com/user-attachments/assets/8348a612-f8f4-4311-aadd-ae61fb023ce0) , !Java
+![GIT](https://github.com/user-attachments/assets/ab236c45-1089-4c38-8502-46409684f6c1)    , ![jenkins](https://github.com/user-attachments/assets/8348a612-f8f4-4311-aadd-ae61fb023ce0) , Java: ☕
+
+!Java
 ![Selenium](https://www.selenium.dev/)
 !Postman
 !GitHub
